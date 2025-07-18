@@ -1,0 +1,314 @@
+.homepage h1 {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px;
+    margin-top: 250px;
+    color: white;
+    -webkit-text-stroke: 3px black;
+    font-size: 120px;
+    font-family: Rubik
+
+}
+
+.homepage h2 {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    color: white;
+    font-size: 50px;
+    font-family: Rubik;
+    -webkit-text-stroke: 2px black;
+}
+
+.homepage ul {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+
+}
+
+.homepage li {
+
+    list-style: none;
+    margin:0;
+    padding: 5px;
+    padding-left: 20px;
+
+}
+
+body {
+    background-image: url("vivid-blurred-colorful-background.jpg");
+   background-size: cover;
+}
+
+.homepage a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family: Rubik;
+    -webkit-text-stroke: 1.16px black;
+    font-weight: bold;
+    transition: border-bottom 0.1s ease;
+}
+
+.homepage a:hover {
+    border-bottom: 3px solid white;
+    box-shadow: 0 2px 0 black;
+}
+
+.education h1 {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px;
+    color: white;
+    -webkit-text-stroke: 3px black;
+    font-size: 120px;
+    font-family: Rubik
+
+}
+
+.education p {
+    font-family: Rubik;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.7px black;
+    text-align: center;
+    padding: 30px;
+}
+
+.education a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family: Rubik;
+    -webkit-text-stroke: 1.16px black;
+    font-weight: bold;
+    transition: border-bottom 0.1s ease;
+}
+.education a:hover {
+    border-bottom: 3px solid white;
+    box-shadow: 0 2px 0 black;
+}
+
+.slavco {
+    text-align: center;
+    margin: 30px;
+}
+
+.education .slavco img {
+    border: 10px solid black;
+}
+
+figcaption {
+    align-items:   center;
+    color: white;
+    font-family: Rubik;
+    -webkit-text-stroke: 0.7px black;
+    font-weight: bold;
+}
+
+.vanco {
+    text-align: center;
+    margin: 30px;
+}
+.education .vanco img{
+    border: 10px solid black;
+    width:888px;
+    height:498px;
+}
+
+.finki {
+    text-align: center;
+    margin: 30px;
+}
+.education .finki img {
+    border: 10px solid black;
+    width:888px;
+    height:498px;
+}
+
+.skills a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family: Rubik;
+    -webkit-text-stroke: 1.16px black;
+    font-weight: bold;
+}
+.skills a:hover {
+    border-bottom: 3px solid white;
+    box-shadow: 0 2px 0 black;
+}
+
+.skills h1 {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px;
+    color: white;
+    -webkit-text-stroke: 3px black;
+    font-size: 120px;
+    font-family: Rubik
+}
+.skills p {
+    font-family: Rubik;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.7px black;
+    text-align: center;
+    padding: 30px;
+}
+
+.skills .photoshop {
+    text-align: center;
+    margin: 30px;
+}
+
+.skills .photoshop img {
+    border: 10px solid black;
+    width:300px;
+    height:300px;
+}
+
+.skills .c {
+    text-align: center;
+    margin: 30px;
+}
+
+.skills .c img {
+
+    width:300px;
+    height:300px;
+}
+
+.skills .htcs {
+    text-align: center;
+    margin: 30px;
+}
+
+.skills .htcs img {
+
+    width:300px;
+    height:300px;
+}
+
+.learning a{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family: Rubik;
+    -webkit-text-stroke: 1.16px black;
+    font-weight: bold;
+
+}
+
+.learning a:hover {
+    border-bottom: 3px solid white;
+    box-shadow: 0 2px 0 black;
+
+}
+
+.learning h1 {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px;
+    color: white;
+    -webkit-text-stroke: 3px black;
+    font-size: 120px;
+    font-family: Rubik
+}
+
+.learning p {
+    font-family: Rubik;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.7px black;
+    text-align: center;
+    padding: 30px;
+}
+
+.learning .python {
+    text-align: center;
+    margin: 50px;
+}
+.learning .python img {
+    width:300px;
+    height:300px;
+}
+
+.learning .unreal {
+    text-align: center;
+    margin: 50px;
+}
+.learning .unreal img {
+    border: 10px solid black;
+    width:300px;
+    height:300px;
+}
+.learning .source {
+    text-align: center;
+    margin: 50px;
+}
+.learning .source img {
+
+    width:550px;
+    height:300px;
+}
+
+.faq a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family: Rubik;
+    -webkit-text-stroke: 1.16px black;
+    font-weight: bold;
+}
+.faq  a:hover {
+    border-bottom: 3px solid white;
+    box-shadow: 0 2px 0 black;
+
+}
+
+.faq h1{
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px;
+    color: white;
+    -webkit-text-stroke: 3px black;
+    font-size: 60px;
+    font-family: Rubik
+}
+
+.faq ul li strong {
+    list-style: none;
+    font-family: Rubik;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    -webkit-text-stroke: 1.5px black;
+}
+
+.faq ul li {
+    list-style: none;
+    font-family: Rubik;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-text-stroke: 0.9px black;
+    padding-top: 40px;
+}
+
+.faq img {
+    position: absolute;
+    top: 135px;
+    right: 0;
+
+}
